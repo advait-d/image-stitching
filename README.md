@@ -1,4 +1,4 @@
-# image-stitching
+# Image Stitching
 As a part of the Computer Vision and Image Processing course, we performed image stitching without the use of OpenCV's library functions such as cv2.BFMatcher or cv2.findHomography
 
 To run via command line, delete outputs if they exist as panorama.jpg (in case of two images) in folders and perform
